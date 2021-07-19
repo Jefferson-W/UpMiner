@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Bars from './components/Navegation';
+import Bars from '../Navegation';
 
 
 export default function ProductList(props) {
