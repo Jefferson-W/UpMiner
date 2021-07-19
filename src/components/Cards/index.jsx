@@ -1,4 +1,4 @@
-
+import './style.css'
 export const Cards = () => (
   <div className="cards-container">
     <div className="cards">
