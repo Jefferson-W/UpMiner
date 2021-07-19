@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Up Miner
 
 <!-- LOGO -->
@@ -31,3 +32,6 @@ Abaixo segue o que foi utilizado na criação do projeto:
 
 - [React](https://pt-br.reactjs.org/) - O React JS é um framework que permite o desenvolvimento de aplicações  utilizando Javascript;
 
+=======
+
+>>>>>>> 1e9f9cfd386b141b8cba38cbcfa69b23dd6b5a4b
