@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Esse projeto foi criado com o framework React, para um E-Commerce
+Esse projeto foi criado com o framework React, para exemplo de E-commerce.
 
 
 ### Como inicializar?

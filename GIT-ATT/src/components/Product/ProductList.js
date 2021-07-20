@@ -62,7 +62,7 @@ export default function ProductList(props) {
 
       </div>
 
-      <div className="container-cards">
+      <div className="container-cards-filter">
 
         {props.products.map(product => {
           return <Bars
