@@ -62,6 +62,16 @@ export default function ProductList(props) {
 
       </div>
 
+     <div className="selection">
+        ORDENAR
+        <select name="select">
+          <option value="Lançamento" selected>Lançamento</option>
+          <option value="Preço" >Preço</option>
+          <option value="Relevancia">Relevancia</option>
+        </select>
+      </div>
+
+
       <div className="container-cards-filter">
 
         {props.products.map(product => {
