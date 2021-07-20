@@ -110,6 +110,11 @@
   flex-wrap: wrap;
 }
 
+.container-cards-filter {
+  display: grid;
+  grid-template-areas: "card card card card";
+}
+
 .cards {
   box-shadow: 0 1px 8px 1px rgb(0 0 0 / 8%);
   border-radius: 10px;
