@@ -110,7 +110,7 @@
   flex-wrap: wrap;
 }
 
-.container-cards-filter {
+.container-cards-filtergit {
   display: grid;
   grid-template-areas: "card card card card";
 }
