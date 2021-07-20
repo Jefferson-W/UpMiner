@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Esse projeto foi criado com o framework React, para um E-Commerce
+Esse projeto foi criado com o framework React, para um tipo de E-commerce.
 
 
 ### Como inicializar?
@@ -12,7 +12,7 @@ Esse projeto foi criado com o framework React, para um E-Commerce
 Primeiro, é necessario ter o Node instalado [Node](https://nodejs.org/en/)
 
 
-Faça um clone do repositori com o comando abaixo::
+Faça um clone do repositorio com o comando abaixo::
 ### `git clone https://github.com/Jefferson-W/upminer.git`
 
 Para instalar as dependências use :
